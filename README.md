@@ -1,2 +1,2 @@
 # Javascript30
-From Web Bos tutoriol
+From Web Bos tutorial
